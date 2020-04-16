@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "clients": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "ДЭУ-51",
+      "address": "Гродно",
+      "email": "dey_51@test.com"
+    },
+    {
+      "id": 2,
+      "name": "ДЭУ-52",
+      "address": "Волковыск",
+      "email": "dey_52@test.com"
     }
   ],
   "profile": {
