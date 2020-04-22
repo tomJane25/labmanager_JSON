@@ -11,7 +11,37 @@
       "name": "ДЭУ-52",
       "address": "Волковыск",
       "email": "dey_52@test.com"
-    }
+    },
+    {
+      "id": 3,
+      "name": "ДЭУ-54",
+      "address": "Слоним",
+      "email": "dey_55@test.com"
+    },
+    {
+      "id": 4,
+      "name": "ДЭУ-55",
+      "address": "Лида",
+      "email": "dey_55@test.com"
+    },
+    {
+      "id": 5,
+      "name": "ДЭУ-56",
+      "address": "Новогрудок",
+      "email": "dey_56@test.com"
+    },
+    {
+      "id": 6,
+      "name": "ДЭУ-57",
+      "address": "Щшмяны",
+      "email": "dey_57@test.com"
+    },
+    {
+      "id": 7,
+      "name": "ДСТ-6",
+      "address": "Гродно",
+      "email": "dst_6@test.com"
+    },
   ],
   "profile": {
     "name": "typicode"
