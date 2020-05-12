@@ -127,7 +127,7 @@
       "clientId": 6,
       "title": "All kinds of tests",
       "startDate": "2020-01-01",
-      "finishDate": "2020-12-31",,
+      "finishDate": "2020-12-31",
       "amount": 30000,
       "balance": 24000,
       "status": "OPEN"
