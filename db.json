@@ -16,7 +16,7 @@
       "id": 3,
       "name": "ДЭУ-54",
       "address": "Слоним",
-      "email": "dey_55@test.com"
+      "email": "dey_54@test.com"
     },
     {
       "id": 4,
@@ -41,6 +41,98 @@
       "name": "ДСТ-6",
       "address": "Гродно",
       "email": "dst_6@test.com"
+    }
+  ],
+  "contracts": [
+    {
+      "id": 1,
+      "number": "2019/1",
+      "clientId": 1,
+      "startDate": "01.01.2019",
+      "finishDate": "31.12.2019",
+      "amount": 20000,
+      "balance": 570,
+      "status": "CLOSED"
+    },
+    {
+      "id": 2,
+      "number": "2020/1",
+      "clientId": 1,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 25000,
+      "balance": 25000,
+      "status": "CANCELED"
+    },
+    {
+      "id": 3,
+      "number": "2020/2",
+      "clientId": 1,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 25000,
+      "balance": 18000,
+      "status": "OPEN"
+    },
+    {
+      "id": 4,
+      "number": "2020/3",
+      "clientId": 2,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 20000,
+      "balance": 17000,
+      "status": "OPEN"
+    },
+    {
+      "id": 5,
+      "number": "2020/4",
+      "clientId": 3,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 30000,
+      "balance": 20000,
+      "status": "OPEN"
+    },
+    {
+      "id": 6,
+      "number": "2020/5",
+      "clientId": 4,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 15000,
+      "balance": 13000,
+      "status": "OPEN"
+    },
+    {
+      "id": 7,
+      "number": "2020/6",
+      "clientId": 5,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 17000,
+      "balance": 14000,
+      "status": "OPEN"
+    },
+    {
+      "id": 8,
+      "number": "2020/7",
+      "clientId": 6,
+      "startDate": "01.01.2020",
+      "finishDate": "31.12.2020",
+      "amount": 30000,
+      "balance": 24000,
+      "status": "OPEN"
+    },
+    {
+      "id": 9,
+      "number": "2020/8",
+      "clientId": 7,
+      "startDate": "10.05.2020",
+      "finishDate": "10.07.2020",
+      "amount": 5000,
+      "balance": 5000,
+      "status": "OPEN"
     }
   ],
   "profile": {
